@@ -1,0 +1,42 @@
+Token Distribution
+The Token Distribution of SUPERWAL
+
+Total Supply: 1,000,000,000 SPL 
+Allocation
+Percentage
+Schedule
+Series
+
+8%
+
+Support Project Development
+
+Ecosystem Fund
+
+15%
+
+Invest in Web3, NFT, DeFi projects
+
+Marketing & Partnership
+
+15%
+
+Sponsor and promote WALCHAIN
+
+Team & Advisors
+
+12%
+
+Rewards for development team
+
+Liquidity & Exchange Listing
+
+15%
+
+Create liquidity on CEX/DEX
+
+Mining & Rewards
+
+35%
+
+Rewards for validators and user mining

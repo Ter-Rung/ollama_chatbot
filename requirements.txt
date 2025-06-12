@@ -1,0 +1,11 @@
+fastapi 
+uvicorn 
+langchain 
+langchain-community 
+python-dotenv
+faiss-cpu==1.10.0
+langchain-core 
+pydantic 
+python-multipart
+langchain-community 
+langchain-ollama
