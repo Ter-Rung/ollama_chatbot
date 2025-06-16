@@ -1,0 +1,77 @@
+User type
+There are 4 user type to participate in receiving rewards from SuperWAL:
+
+Normal User
+Account point: 1
+
+Upon successfully registering an account and becoming a member of SuperWAL, you gain immediate access to engage in mining activities and collect your rewards. 
+
+You need to reactivate the mining process every 24 hours to maintain continuous participation.
+
+Pioneer
+Account point: 3
+
+Verified Referral Members: ≥ 3
+
+SuperUP: ≥ 1.25
+
+To become a pioneer, assembling three of team (verified member) or more individuals is essential and have your SuperUP rate  ≥ 1.25
+
+You need to reactivate the mining process every 24 hours to maintain continuous participation. 
+
+ Pioneer Badge:
+
+
+Enjoy the Pioneer badge and start exploring the project's potential
+
+Distributor
+Account point: 5
+
+To increase your rewards, become a distributor. A distributor can participate as an approved channel in the system and have the opportunity to establish their own business once the platform launches.
+
+To maintain continuous participation, you must reactivate the mining process every 24 hours.
+
+Active auto mining: available
+
+Eligibility to Become a Distributor:
+To qualify as a distributor and join the distributor rankings, you must meet these two criteria:
+
+Verified Referral Members: ≥ 5
+
+SuperUP: ≥ 3
+
+Distributor Badge: 
+
+
+When you become a distributor, you will receive a special badge. This badge will appear as a meaningful icon displayed prominently in the top-right corner of the screen, representing your role and achievements.
+
+Partner
+Account Points: 7
+Maximize your rewards and unlock exclusive benefits by becoming a partner. As a partner, you gain official recognition in the system, access to unique incentives, and the opportunity to grow your own network and business.
+
+Maintaining Active Participation
+To remain active, you must reactivate the mining process every 24 hours. 
+
+Active auto mining: available
+
+This ensures your account stays eligible for rewards and benefits within the system.
+
+How to Become a Partner
+To qualify for partnership status and enjoy its perks, you must meet these requirements:
+
+Distributor Activation: Your account must already be activated as a distributor.
+
+SuperUP: ≥ 10
+
+Once you fulfill these criteria, you'll gain access to exclusive rewards and establish yourself as a key contributor in the system, paving the way for a successful business venture.
+
+Partner Badge:
+
+
+When you become a partner, you will receive a special badge. This badge will appear as a meaningful icon displayed prominently in the upper right corner of the screen, representing your role and achievements. Unlock many attractive incentives right in the mining process.
+
+Note: You have full rights as a distributor when you become a partner.
+
+===============
+
+Note: If your SpeedUp rate drops below 3 after becoming a contributor (Distributor and Partner), you will still retain contributor status. However, your account may not appear in the contributor rankings and you may lose access to special airdrops.

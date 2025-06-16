@@ -1,0 +1,14 @@
+Leaderboard
+SPL Leaderboard
+This is the SPL mining ranking based on the user's own strength and the surrounding community coefficient. This ranking is based on the total number of tokens.
+
+Contributor leaderboard
+Contributor leaderboard is a ranking for qualified contributors.
+
+Rating Index = Verified referral member * SuperUP
+
+Referral leaderboard
+This is a leaderboard for users who have referred the most members to their group.
+
+SuperUP leaderboard
+This is the ranking of users according to SuperUP coefficient

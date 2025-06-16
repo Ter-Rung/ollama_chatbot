@@ -1,0 +1,23 @@
+Member Rewards
+The Member Rewards represents the points earned within your team. By inviting more individuals to join your team using your referral code, your member score escalates, enhancing your mining pace.
+
+Rate
+Describe
+Member Rewards
+
+Rewards = ( User type + Verified mining team * b)
+
+Verified mining team: is a member who is referred by you and is in mining status and verified email.
+
+User type:
+
+Normal = 1
+Pioneer = 3
+Distributor = 5
+Partner = 7
+
+With: b = 25%
+---
+View more: User type
+
+Active users are vital team members actively engaged in mining. Members not actively mining won't contribute to the member points. It's crucial to keep your team informed to ensure everyone maintains mining status. This practice fosters team unity, boosts mining capabilities, and maximizes community rewards.

@@ -1,0 +1,57 @@
+SuperUP Rewards
+SuperUP Sponsor Mechanism – Voluntary Sponsorship System in the SuperWAL Ecosystem
+
+Rate
+Describe
+SuperUP rate
+
+Fomular: 
+SuperUP = 50ln(0.0025x+1) + Beta + 1
+With:
+x = Total Sponsor 
+Beta = 15% * (SuperUP of teams)
+
+1. Overview
+SuperUP Sponsor is a voluntary contribution feature integrated within the SuperWAL application, designed to support the long-term development and sustainability of the project. This feature does not unlock exclusive content or privileges but provides benefits such as increased SPL mining speed and an SPL refund mechanism based on an internal exchange rate, while ensuring all users have equal access to SuperWAL’s core features, regardless of whether they contribute.
+
+2. Purpose of SuperUP Sponsor
+
+Support for Technological Development:
+Contributions are used to maintain and enhance core technologies, such as ZK-Rollup, Stellar Consensus Protocol (SCP), scaling the Walchain network, and improving user experience.
+
+Building the Web3 Community:
+Users who contribute via SuperUP are recognized as Project Sponsors (Contributors) – a symbolic title that reflects their engagement and commitment to the community.
+
+Increased SPL Mining Speed:
+SuperUP contributions enable users to increase the speed of SPL mining within the application, providing an additional benefit without compromising system fairness.
+
+3. Operational Mechanism
+3.1. Completely Voluntary
+
+Participation is entirely optional.
+
+All users can fully utilize the app’s features (including SPL mining, content sharing, and community interactions) without making any contributions.
+
+SuperUP contributions provide benefits such as increased SPL mining speed and an SPL refund mechanism but are not required to use the application.
+
+3.2. Non-Refundable in Cash
+
+Contributions made in stable digital assets (WaLX) are not purchases or investments.
+
+They represent a long-term commitment, similar to contributions to open-source platforms.
+
+Contributions cannot be converted into cash, except through the refund mechanism in the form of SPL tokens based on an internal exchange rate.
+
+4. Recognition and Refund Mechanism – SPL Token
+
+SPL is an internal token of the SuperWAL ecosystem, used for recognition, incentives, and transactions within the application.
+
+The value of SPL depends on the level of acceptance and usage by the user community within the SuperWAL ecosystem and has no fixed financial value outside the application.
+
+SPL cannot be withdrawn or converted into cash but can be used for internal activities within the ecosystem as per SuperWAL’s regulations.
+
+SPL Refund Mechanism: Users participating in SuperUP Sponsor will receive a refund in SPL tokens based on the internal exchange rate of WaLX contributions, determined transparently by the SuperWAL system. This SPL refund does not affect users’ core privileges.
+
+SuperUP contributions increase the speed of earning SPL, but SPL does not unlock features or alter access to the application’s core functionalities.
+
+SPL tokens are distributed and refunded transparently based on a fixed internal rate, ensuring fairness and clarity.

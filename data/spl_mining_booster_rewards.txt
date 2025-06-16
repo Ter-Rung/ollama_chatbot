@@ -1,0 +1,71 @@
+Boosters Rewards
+Why Does the SuperWAL App Require Location Access?
+The SuperWAL app leverages location access to enhance the Booster feature, enabling users to maximize rewards, foster collaboration, and build a stronger community. This functionality is designed to balance effective performance with privacy and efficient device usage.
+
+How Location Access Works and Benefits You
+Boost Performance Optimization
+
+The app updates your location every 1 minute while the app is open, allowing it to calculate the number of users within a 200-meter radius.
+
+This ensures you can participate in Community Circle Rates, which increase your rewards based on the number of nearby participants actively mining SPL tokens.
+
+Location tracking integrates you into an active community, maximizing your chances of earning higher rewards.
+
+Meeting Point Functionality
+
+Meeting points are created when a user uses the app and allows location access. Your meeting point is within 200 meters of your location.
+
+This encourages teamwork and collaboration, enabling participants to boost collectively and amplify rewards.
+
+The system determines optimal gathering points, ensuring all users benefit from a dynamic and interactive Booster experience.
+
+Efficient Location Management
+
+Real-time tracking is avoided: The app updates your location only during interactions, such as opening the app or pressing the boost button. This minimizes battery drain and data usage while maintaining functionality.
+
+When the app is closed, your location data is retained temporarily for up to 60 minutes. After this period, your last location is automatically removed from the map.
+
+Boosters Calculation
+
+Rate
+Describe
+Boosters
+
+Boosters = ( 1 + Community Circle Rate + Get Reward)
+Community Circle Rate = Members of meeting point * 30%
+Meet point: Set when you use the app within 200 meters of your location. 
+
+Meet point members: members who are in mining status. 
+
+Boost time is valid for 60 minutes.
+Get Reward: View
+
+Privacy Assurance
+Limited Use of Location Data
+
+Your location is used solely for the Booster feature. It is never shared with third parties or used for purposes outside of optimizing your Booster experience.
+
+Temporary Data Processing
+
+Location data is only processed and stored for as long as necessary to enhance your experience. Once it serves its purpose, it is discarded.
+
+Transparent Practices
+
+The app clearly explains why location access is needed, ensuring you remain in control of your privacy.
+
+Key User Benefits
+Enhanced Rewards
+
+Collaborate with others in your vicinity to create a more interactive and rewarding experience.
+
+Join active communities and amplify your Booster results through teamwork.
+
+Optimized Device Usage
+
+By updating location data only when necessary, the app minimizes power and data usage while delivering a seamless experience.
+
+Community Building
+
+The Booster feature fosters unity and collaboration, creating meaningful connections with other users while driving collective success.
+
+By granting location access, you unlock the full potential of the Booster feature, gaining higher rewards, better interactions, and a smoother experience—all while ensuring your privacy and device performance are protected.

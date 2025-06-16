@@ -1,0 +1,14 @@
+Base Rate
+The base rate constitutes the fundamental mining point, calculated considering the total token distribution within the community and the anticipated benefits for user development, aiming to maximize user advantages.
+
+Rate
+Describe
+Base Rate
+
+Base rate = AP * Base score
+
+Base score = 0.0005 SPL/h
+-----
+AP (Activity Points): Individual points accumulated from tasks.
+
+Note: AP points will be unlocked soon. Default AP = 1

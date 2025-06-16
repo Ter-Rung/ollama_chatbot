@@ -1,0 +1,50 @@
+Get Reward
+Ad Deployment on SuperWAL Mining App
+Increase SPL Mining Speed & Boost Multiplier
+
+1. Objectives
+Enhance SPL mining speed: Encourage users to watch ads to increase their Booster multiplier.
+
+Fund the project: Ad revenue supports the development and sustainability of the ecosystem.
+
+Increase user engagement: Encourage users to access the app frequently and participate in promotional programs.
+
+2. Mechanism
+Ads Up Boost: When users activate this feature, they can watch ads to increase their Booster multiplier.
+
+Duration: Each Ads Up Boost activation is valid for 8 hours.
+
+Bonus Points: Each successfully watched ad grants 0.5 points to the Booster multiplier.
+
+Booster Multiplier Formula:
+
+Boosters=1+Community Circle+Ads Up Boost
+
+1: The base multiplier for all users.
+
+Community Circle: Additional points from participating in communities or group activities.
+
+Ads Up Boost: Additional points earned from successfully watching ads.
+
+3. How to Use
+Step 1: Open the SuperWAL Mining app and select the Ads Up Boost feature.
+
+Step 2: Click “Get Reward” and complete the ad without interruptions. Once the ad finishes, the system will automatically add 0.5 points to the Booster multiplier.
+
+Step 3: Check the increased Booster multiplier and SPL mining speed on the app’s tracking interface.
+
+Note:
+
+Ads Up Boost is valid for 8 hours from activation.
+
+Users can watch multiple ads in a row to maximize their Booster points.
+
+4. User Benefits
+Faster SPL mining: Accumulate Booster points to increase mining efficiency.
+
+Optimize token earnings: Each ad watched contributes to higher token rewards.
+
+Earn additional rewards: Participate in exclusive events and promotions from SuperWAL.
+
+5. Conclusion
+The Ads Up Boost feature not only accelerates SPL mining for users but also serves as a key funding mechanism supporting SuperWAL’s sustainable growth. Its clear, user-friendly mechanism optimizes user experience while motivating the community to engage in the SuperWAL ecosystem.

@@ -1,0 +1,118 @@
+Privacy Policy
+Last Updated: March 24, 2025
+
+Welcome to SuperWAL – an open blockchain platform designed to support real-world asset tokenization, decentralized identity verification, document authentication, and true random number generation. At SuperWAL, we are committed to protecting your privacy and ensuring transparency in how we collect, use, and share your information. This Privacy Policy explains in detail how we handle your data when you use our services, while adhering to the standards of AdMob, Google, and applicable data protection regulations.
+
+1. Information We Collect
+
+We collect the following types of information when you interact with SuperWAL:
+
+Information You Provide Directly:
+
+When you create an account or use our services, you may provide details such as your email address, username, or information required for identity verification (if applicable).
+
+Data you upload while using features like asset tokenization, document verification, or transactions on the platform.
+
+Information Collected Automatically:
+
+Device and Usage Data: This includes your IP address, device type, operating system, browser information, and your activities on the platform (e.g., transactions, staking, or yield farming).
+
+Advertising ID: If you use an app version with AdMob ads, we or third-party partners (like Google) may collect your advertising ID to deliver relevant ads.
+
+Blockchain Data: Public transactions on Walchain (SuperWAL’s Layer 1 blockchain) are recorded on a decentralized ledger, including wallet addresses and transaction details.
+
+Information from Third Parties:
+
+If you connect to SuperWAL via third-party services (e.g., cryptocurrency wallets or authentication platforms), we may receive information from those sources in accordance with their policies.
+
+2. How We Collect Information
+
+Directly from You: Through registration forms, interactions with our app, or services.
+
+Automatically: Using technologies such as cookies, SDKs (software development kits), and analytics tools to track your activity. For example, the Google Mobile Ads SDK, used to integrate AdMob ads, may automatically collect usage data.
+
+From Blockchain: Transaction data is publicly recorded and immutable on Walchain.
+
+3. Purpose of Using Information
+
+We use your information to:
+
+Provide and Improve Services: Ensure the operation of features like staking SPL tokens, yield farming, identity verification, and asset tokenization.
+
+Display Ads: If you use an ad-supported version of the app, AdMob uses data to provide personalized or non-personalized ads based on your settings.
+
+Analytics and Research: Understand how users interact with the platform to enhance user experience and performance.
+
+Security: Prevent fraud, protect your account, and maintain the integrity of the SuperWAL ecosystem.
+
+Legal Compliance: Fulfill legal or regulatory requirements when necessary.
+
+4. Sharing Information with Third Parties
+
+We may share your information in the following cases:
+
+With Service Partners:
+
+Google AdMob: To display ads in the app, AdMob may access data like advertising IDs or device information. Learn more in Google’s Privacy Policy at https://policies.google.com/privacy.
+
+Blockchain Service Providers: Infrastructure or cross-chain bridge providers may process transaction data to ensure compatibility with other networks.
+
+For Legal Requirements: If required by law or authorities, we will share necessary information after verifying the request’s legitimacy.
+
+Publicly on Blockchain: Transaction data (wallet addresses, token amounts) is recorded publicly on Walchain and cannot be deleted, consistent with blockchain’s decentralized nature.
+
+We do not sell your personal data to any third parties for commercial purposes.
+
+5. Your Rights
+
+You have the following rights regarding your personal information:
+
+Access and Modification: You may request to view or edit the personal information we hold (if any).
+
+Opt-Out of Personalized Ads: You can disable personalized ads via your device or app settings (if supported).
+
+Data Deletion: You may request the deletion of personal data not related to blockchain, though transaction data on Walchain cannot be erased due to its immutable nature.
+
+Withdraw Consent: If we process data based on your consent, you can withdraw it at any time by contacting us.
+
+To exercise these rights, please contact us at: support@superwal.io.
+
+6. Data Security
+
+We implement technical and organizational measures to protect your data, including:
+
+Encryption of data during transmission and storage.
+
+Strict access controls for employees and partners.
+
+Continuous monitoring to detect and prevent security threats.
+
+However, please note that no system is entirely secure, especially with data publicly available on blockchain.
+
+7. Cookies and Tracking Technologies
+
+We use cookies and similar technologies to:
+
+Enhance user experience (e.g., saving login details).
+
+Analyze performance and user behavior.
+
+Support AdMob advertising (if applicable).
+
+You can manage cookies through your browser or device settings, but disabling them may affect some service functionalities.
+
+8. Children
+
+Our services are not intended for children under 13 years old (or the minimum age under local law). We do not knowingly collect data from children. If we discover children’s data collected without parental consent, we will delete it immediately.
+
+9. Policy Changes
+
+We may update this Privacy Policy to reflect changes in our services or legal requirements. Any updates will be notified via email or on our website https://docs.superwal.io/fundamentals/privacy-policy.
+
+10. Contact Us
+
+If you have questions, complaints, or requests regarding privacy, please contact:
+
+Email: support@superwal.io
+
+Address: Aitekventure Ltd, British Virgin Islands

@@ -1,0 +1,17 @@
+Verify
+Verify to validates identities, ensuring compliance and genuine interactions on application. SuperWAL mandates one account per person, preventing fake accounts and unfair SPL accumulation.
+
+Verify is understood as an action that includes email verification and completing KYC
+
+Unverified token
+If your account has not verify email, all SPL tokens mined are in unverifed status. Unverified includes tokens you mined and rewards from member referrals
+
+Verified token
+You must complete email verification to receive the tokens you mined. Check the email verification of the members you refer to ensure the tokens will be fully verified and you receive your rewards.
+
+Functions in the verification process
+Verify your Email
+During the token release process, users will have to participate in verification via your email to ensure they are real users and avoid fraud during the mining process.
+
+KYC
+Complete KYC to unlock unlimited app functionality. 

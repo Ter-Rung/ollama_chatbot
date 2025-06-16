@@ -1,0 +1,104 @@
+KYC & AML
+KYC & AML Policies: Adhere to KYC & AML regulations for the establishment of a fair and transparent platform.
+
+SPL MINING POLICY FOR USER PARTICIPATION
+Last Updated: March 11, 2025
+
+SuperWAL has introduced a process allowing users to collect SuperWAL Tokens (SPL) by participating in designated activities, known as "SPL mining." SPL serves as the native token of the SuperWAL ecosystem, designed for use within platform services, including transactions, governance, and staking on Walchain—a Layer 1 blockchain with the SCP (SuperWAL Consensus Protocol) solution integrated with Rollup Layer 2. This process ensures fair token distribution, fraud prevention, and compliance with Anti-Money Laundering (AML) regulations.
+
+By participating in SPL mining, users agree to the terms outlined below.
+
+1. KYC Requirement for Receiving Airdrops and Withdrawing SPL
+
+To receive SPL airdrops or withdraw SPL tokens to an external wallet, users must complete the Know Your Customer (KYC) verification process. This requirement ensures:
+✅ Transparency and identity verification for all participants.
+✅ Prevention of fraudulent activities, money laundering, and other illicit actions.
+✅ Enhanced security and trust within the SuperWAL ecosystem.
+
+📌 Important Note: Failure to complete KYC will result in ineligibility to receive SPL airdrops or withdraw SPL tokens.
+
+2. Required Information for KYC and SPL Mining
+
+To complete KYC and participate in SPL mining, users must provide the following information:
+
+2.1. Identity Verification Information
+
+Biometric data (facial scan) for identity verification.
+
+Phone number verification to ensure account authenticity.
+
+2.2. Purpose of Data Collection
+
+🔹 Used exclusively for identity verification and SPL token mining processing.
+🔹 Not used for commercial purposes or shared with unauthorized third parties.
+🔹 Processed in accordance with SuperWAL’s data protection policies, complying with applicable laws such as GDPR and local privacy regulations.
+
+❗ Important Notice: Users must provide accurate and valid information. Providing false, incomplete, or unverifiable information may result in account suspension or permanent restriction from mining SPL.
+
+3. Compliance with Anti-Money Laundering (AML) Regulations
+
+SuperWAL strictly adheres to AML regulations to protect the platform from financial crimes.
+
+3.1. SPL Transaction Monitoring
+
+SuperWAL continuously monitors SPL-related activities, including deposits, withdrawals, and token transactions.
+
+Transactions flagged as suspicious or non-compliant with AML policies may lead to restricted participation, account suspension, or termination.
+
+3.2. Restrictions for Policy Violations
+
+If illegal or suspicious activity is detected, SuperWAL reserves the right to:
+🚨 Restrict SPL mining participation.
+🚨 Suspend or block SPL withdrawals.
+🚨 Temporarily or permanently deactivate the user’s account in case of a violation.
+
+📌 User Responsibility: Users are responsible for ensuring their SPL holdings and transactions comply with legal and regulatory requirements in their jurisdiction.
+
+4. KYC Verification Process and Consequences of Non-Compliance
+
+4.1. Identity Verification Process (KYC)
+
+SuperWAL reserves the right to verify KYC using:
+✔ Third-party verification services (certified and compliant with data protection laws such as GDPR).
+✔ SuperWAL’s internal authentication system.
+
+4.2. Consequences of KYC Non-Compliance
+
+❌ Providing false, incomplete, or unverifiable information → Restrictions on SPL mining.
+❌ Failure to complete the KYC process → Inability to withdraw SPL or receive airdrops.
+❌ Repeated violations or fraudulent activities → Permanent account suspension.
+
+4.3. Additional Requirements
+
+📌 SuperWAL reserves the right to request additional documents (such as identification or proof of address) if needed for identity verification in special cases or suspected fraud.
+
+5. User Acknowledgments and Rights
+
+5.1. User Acknowledgments
+
+📌 KYC verification is mandatory for receiving SPL airdrops or withdrawing SPL tokens.
+📌 The KYC process ensures security, fraud prevention, and compliance with AML regulations.
+📌 By participating in SPL mining, users consent to the processing of their personal data for identity verification purposes.
+📌 All personal data is processed in accordance with privacy protection laws (e.g., GDPR, CCPA) and will not be shared with unauthorized third parties unless required by law.
+📌 Continued participation in SPL mining constitutes acceptance of these terms.
+
+5.2. User Rights
+
+✅ Request to view, edit, or delete personal data (except for blockchain data that cannot be erased).
+✅ Withdraw consent for data processing (if applicable under jurisdictions like the EU) by contacting SuperWAL at support@superwal.io.
+
+6. SuperWAL’s Commitment
+
+SuperWAL is committed to:
+✔ Ensuring a transparent, fair, and secure SPL mining process.
+✔ Using personal user data solely for identity verification and platform security purposes, not for commercial purposes outside the ecosystem.
+✔ Regularly updating its policies to comply with international AML regulations, data protection standards (GDPR, CCPA), and blockchain standards.
+✔ Protecting user data with encryption measures (TLS/SSL) and secure storage practices.
+
+7. Contact and Support
+
+For questions, concerns, or assistance regarding the SPL mining policy, KYC, or AML compliance, please contact:
+
+Email: support@superwal.io
+
+Address: SuperWAL Headquarters, British Virgin Islands

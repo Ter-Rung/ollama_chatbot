@@ -1,0 +1,8 @@
+Google Authenticator
+Google Authenticator operates as an additional security safeguard for your account, functioning as a software token within a two-step verification mechanism. This mobile app generates unique passwords, even without an internet connection, utilizing a time-based algorithm. Once activated, it exhibits a randomly generated six-digit code, acting as a one-time password to bolster account security. Activating two-factor authentication (2FA) mandates the use of this distinct one-time password along with your regular password for login, heightening protection against unauthorized access.
+
+Considering our strong focus on player security, we highly encourage the adoption of Google Authenticator. This straightforward step can preempt potential security concerns and offer users peace of mind.
+
+Enabling Google Authenticator triggers 2FA for each login or withdrawal, and it's recommended to preserve the QR code or manual code. This information serves as a recovery aid should your mobile device be lost or damaged.
+
+For additional information on Google Authenticator, please consult the provided resources.

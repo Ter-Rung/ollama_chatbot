@@ -1,0 +1,109 @@
+Terms and Conditions
+Last Updated: March 11, 2025
+
+These Terms of Use ("Terms") establish the rules and guidelines for participating in the mining of SPL (SuperWAL Protocol Layer Token), the native token of the SuperWAL platform. SPL serves as the core asset within the Walchain ecosystem—a Layer 1 blockchain with the SCP (SuperWAL Consensus Protocol) solution integrated with Rollup—facilitating transactions, governance, staking, liquidity provision, and fee optimization on both Layer 1 and Layer 2 Rollup.
+
+By engaging in SPL mining or using SuperWAL’s Services, you ("User") agree to comply with the terms outlined below. If you do not agree, please refrain from participating or using the Services.
+
+1. Purpose of SPL Mining
+
+SPL mining is an activity within the SuperWAL ecosystem that allows Users to earn SPL tokens by completing designated tasks, including but not limited to contributing to the ecosystem (e.g., staking, providing liquidity) or interacting with advertising content from partners such as Google AdMob and Meta. Earned SPL tokens can be used for:
+
+Paying transaction fees on Walchain Layer 1 and Layer 2 Rollup.
+
+Participating in DeFi, GameFi, NFT Marketplace, and SocialFi services within the ecosystem.
+
+Engaging in decentralized governance through the SuperWAL DAO.
+📌 Note: SPL is a virtual asset valid only within the SuperWAL ecosystem and does not equate to real-world assets or legal tender.
+
+2. SPL Mining Process
+
+Users can earn SPL by participating in mining activities designated by SuperWAL, such as staking, liquidity provision, or interacting with advertisements from partners:
+
+Proof of Participation Mechanism: SPL rewards are distributed based on a User’s contributions to the ecosystem, rather than relying on resource-intensive Proof of Work (PoW) algorithms.
+
+Validation and Distribution: Rewards are verified through smart contracts and automatically credited to the User’s account upon successful task completion.
+
+Dynamic Reward System: Mining rewards may vary based on activity levels, account status, and system incentives.
+📌 Reward Calculation Formula:
+Rate (SPL/hour) = Base × Super Boost × Boost × Reward
+(Example: Base is the default reward level, Super Boost may depend on account tier, Boost from ads, and Reward based on specific tasks).
+
+3. Use of SPL Tokens
+
+SPL tokens can be utilized within the SuperWAL ecosystem for the following purposes:
+
+Paying transaction fees on Walchain Layer 1 and Layer 2 Rollup.
+
+Staking to earn passive rewards or participating in Yield Farming within SuperWAL’s DeFi platform.
+
+Trading on the NFT Marketplace, unlocking features in GameFi/SocialFi, or interacting with special advertising content.
+
+Voting in the SuperWAL DAO to participate in decentralized governance decisions.
+SPL tokens may be traded on decentralized exchanges (DEX) approved by SuperWAL or cross-chain bridged to networks such as Ethereum, Binance Smart Chain (BSC), and Polygon, subject to the platform’s current policies.
+📌 Note: SPL cannot be directly exchanged for fiat currency or used outside the SuperWAL ecosystem unless explicitly authorized in writing by the platform.
+
+4. Legal Disclaimer
+
+SPL is a virtual asset designed solely for internal use within the SuperWAL ecosystem.
+
+SPL does not represent real financial profit and should not be considered a financial investment.
+
+SPL mining is not associated with gambling, betting, or similar activities.
+
+SuperWAL is not liable for any losses arising from the use of SPL beyond the intended scope of the ecosystem or from issues related to User data caused by the actions of third-party advertising partners (e.g., Google AdMob or Meta).
+
+5. Risk Acknowledgment
+
+By participating in SPL mining, Users acknowledge and accept:
+
+The availability, functionality, and utility of SPL may change due to SuperWAL’s policies, legal requirements, or technical issues related to blockchain.
+
+The value of SPL is not fixed and may be influenced by supply-demand mechanisms, system updates, or advertising market fluctuations (if applicable).
+
+SuperWAL reserves the right to modify the SPL mining policy without prior notice to comply with legal regulations or enhance the ecosystem.
+
+6. Conditions for Participation in SPL Mining
+
+To participate in SPL mining, Users must:
+
+Be of legal age as defined by the laws of their jurisdiction (minimum 18 years or as per local regulations).
+
+Register a valid account on the SuperWAL platform.
+
+Agree to abide by these Terms of Use and SuperWAL’s Privacy Policy (including terms related to advertising data from partners like AdMob and Meta).
+
+7. Compliance and Policy Updates
+
+SuperWAL reserves the right to amend these Terms of Use at any time to align with legal requirements or ecosystem updates.
+
+Users will be notified of significant changes via email or in-app notifications. Continued participation in SPL mining after updates constitutes acceptance of the revised terms.
+
+Violations of these Terms may result in penalties, including account suspension, forfeiture of earned SPL, or termination of Service access.
+
+8. Restrictions and Prohibitions
+
+SPL may not be directly exchanged for fiat currency or used outside the SuperWAL ecosystem unless officially approved by SuperWAL.
+
+Prohibited actions include:
+
+Fraud, use of bots, or unauthorized SPL mining.
+
+Using SPL to violate the policies of advertising partners (e.g., Google AdMob, Meta) or these Terms of Use.
+
+Consequences of violations:
+
+Restricted access to the mining system.
+
+Forfeiture of all SPL earned through misconduct.
+
+Temporary or permanent account suspension.
+📌 Note: SuperWAL does not guarantee the long-term availability, value, or utility of SPL. These factors may change due to platform updates, policy decisions, or regulatory requirements.
+
+9. Contact and Support
+
+For questions, concerns, or assistance regarding SPL mining or these Terms of Use, please contact:
+
+Email: support@superwal.io
+
+Address: SuperWAL Headquarters, British Virgin Islands

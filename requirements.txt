@@ -3,9 +3,12 @@ uvicorn
 langchain 
 langchain-community 
 python-dotenv
-faiss-cpu==1.10.0
+faiss-cpu==1.7.2
+faiss-gpu
 langchain-core 
 pydantic 
 python-multipart
 langchain-community 
 langchain-ollama
+bs4
+requests

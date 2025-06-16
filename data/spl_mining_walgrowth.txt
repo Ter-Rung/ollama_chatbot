@@ -1,0 +1,138 @@
+WALGrowth
+The program operates as an overall budget package, which is implemented in separate budget allocations and intermittent campaigns. Each campaign is announced to participants before its launch.
+
+SuperWAL Growth Promotion Policy
+Positive Mining Member: is a verified account and mining
+Verified account: Email + phone number
+
+Earn Rewards by Inviting Friends to Mine on SuperWAL
+1. Introduction to the Program
+The SuperWAL Growth Program allows you to earn money by inviting friends to join SuperWAL and start mining. Your rewards are based on the Positive mining members in your referral network.
+
+💡 Invite friends – They mine, you earn!
+
+2. Who Can Join?
+Anyone with a SuperWAL account can participate.
+
+Once your referral network has Positive mining members (*), the WAL Growth program will be unlocked in your app.
+
+After activation, you can start earning rewards for new active mining users.
+
+3. How to Earn Rewards?
+3.1. Reward Calculation
+
+🔹 Total Pool for WAL Growth: 1,000,000 USDT
+
+🔹  Convert: 1 point = 1 USDT
+
+
+You earn rewards based on the number of Positive Mining Members you refer:
+
+✅ WAL Starter : 2 points per Positive Mining Member in the 2,000 points pool. | End
+
+✅ WAL Genesus : 2 points per Positive Mining Member in the 10,000 points pool. | End
+
+continue...
+
+🔹 Campaign Updates:
+
+Campaigns are launched in different budget packages at various times and will be announced in the app. Participants must follow the campaign unlock schedule to start earning.
+
+New Campaign Snapshot: Each new campaign will take a first snapshot of your referral network when you join the campaign. This initial snapshot establishes your baseline count for that specific campaign.
+
+Once a budget package reaches its limit, the system automatically closes that package, and participants must wait for announcements regarding the timing and budget of the next package.
+
+When a campaign is launched or you join a new campaign, the system will snapshot your active Positive Mining Member count to record the initial number. From that point, you can start referring new participants and earning rewards from qualified mining users.
+
+🔹 Hourly Snapshots:
+
+The system checks the number of Positive Mining Members every hour.
+
+Only your highest recorded Positive Mining Member count is considered for reward calculations.
+
+If your count decreases, you won’t lose money, but new rewards will only be earned if your mining user count increases beyond the previous high.
+
+🔹 Special Budget Distribution Rule:
+
+If, at the time of a snapshot, the remaining budget in a package is less than the total rewards to be distributed, the remaining funds will be divided equally among all eligible users proportional to their Positive Mining Member contributions for that snapshot.
+
+3.2. How It Works?
+
+📌 Important Notes:
+
+The first snapshot after activation or when joining a new campaign does not count toward rewards.
+
+Only new Positive Mining Members added after the first snapshot of each campaign will be counted for rewards.
+
+Example Scenarios:
+✅ Scenario 1: Joining with Existing Positive Mining Members
+
+You activate the WAL Growth Program or join a new campaign.
+
+First snapshot: You already have 55 Positive Mining Members.
+
+❌ No rewards are given for these 55 members (baseline established).
+
+Next snapshot: Your Positive Mining Members increase to 75.
+
+✅ You earn for (75 - 55) × $2 = $40.
+
+✅ Total earnings: $40.
+
+✅ Scenario 2: New User Creating a SuperWAL Account
+
+You activate the WAL Growth Program or join a new campaign.
+
+First snapshot: 0 Positive Mining Members (no earnings).
+
+Next snapshot: You invite 30 Positive Mining Members.
+
+✅ You earn 30 × $2 = $60.
+
+Third snapshot: Your Positive Mining Members increase to 100.
+
+✅ You earn (100 - 30) × $2 = $140.
+
+✅ Total earnings: $200.
+
+4. How Are Rewards Paid?
+Earnings are automatically credited to your SuperWAL Wallet hourly.
+
+Withdraw funds from the in-app wallet to your wallet anytime.
+
+KYC verification may be required for security and fraud prevention.
+
+5. How to Check Your Positive Mining Members Count?
+You can check your Positive Mining Members in the SuperWAL app:
+
+Go to the "Team" section.
+
+Check: "Positive Mining".
+🔹 Always keep an eye on your Positive Mining Members to track your progress.
+
+6. What Is Your Referral ID?
+Your Referral ID is your SuperWAL username.
+
+When someone signs up using your Referral ID, they will be linked to your referral network.
+
+Share your Referral ID and start earning!
+
+7. Terms & Conditions
+7.1. Participation Requirements
+
+Anyone can join if they has Verified account.
+
+7.2. Important Rules
+
+🚫 Strictly no fake accounts or fraudulent activities – if detected, your account will be permanently banned.
+
+📌 The first snapshot (after activation or joining a new campaign) is not counted for rewards; only new mining users after that qualify.
+
+⚠️ SuperWAL reserves the right to modify the program as needed.
+
+8. How to Join?
+✔ Log in to the SuperWAL app.
+✔ Activate the program and start earning.
+✔ Withdraw earnings anytime from your SuperWAL Wallet!
+📢 The more mining friends you have, the more you earn!
+👉 Sign up now and start earning with SuperWAL!

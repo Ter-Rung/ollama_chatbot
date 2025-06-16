@@ -1,0 +1,12 @@
+Devices
+The SuperWAL application is built on iOS and Android platforms to provide a convenient and secure trading and asset management experience. Below are descriptions of the apps on each platform:
+
+1. iOS
+The application is optimized for devices running the iOS operating system, including iPhone and iPad. 
+
+The user interface is optimally designed to reflect Apple's design standards, providing a smooth and user-friendly experience.
+
+2. Android
+The application is also developed to be compatible with the Android operating system, supporting a variety of devices from different manufacturers. 
+
+The Android user interface is optimized to ensure the best compatibility and performance on the platform.

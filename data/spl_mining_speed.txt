@@ -1,0 +1,41 @@
+Mining Structure
+Note: The mining structure serves as a robust community-building feature within the project, allowing you to collaborate with your team and leverage the potential of these indicators for opportunities.
+
+Mining Structure
+The mining structure comprises four distinct parts as follows:
+
+
+With: x = Base rate * SuperUP * Boosters * Rewards
+
+Formula Details:
+
+Rate
+Describe
+Details
+Base rate
+
+Base  = AP * Base score
+With: Base score = 0.0005 SPL/h
+AP: Activity Point
+
+view
+
+SuperUP
+
+SuperUP = 50ln(0.0025x + 1) + Beta + 1
+With: x = Total Sponsor
+
+view
+
+Boosters
+
+Boosters = ( 1 + Community Circle Rate)
+
+view
+
+Member Rewards
+
+Rewards = ( User type + Veridied mining team * b%)
+With: b = 25%
+
+view

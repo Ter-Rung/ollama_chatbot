@@ -1,0 +1,135 @@
+Overview
+Mining SPL & Earn!
+
+SPL MINING – EARN SPL TOKENS ON SUPERWAL
+SPL Mining on SuperWAL is a fresh approach to earning SPL Tokens by contributing to the Walchain ecosystem, without relying on your device’s resources. Unlike traditional crypto mining (like Proof of Work), which demands high-powered hardware and consumes significant energy, SPL Mining runs entirely on the cloud. This means it doesn’t use your device’s CPU, GPU, or battery—no wear and tear on your device!
+
+Instead, SuperWAL uses a Proof of Participation (PoP) model, where you earn tokens by actively engaging in activities that support the platform. These could include tasks like validating transactions, contributing to the network’s security, or promoting ecosystem growth. By participating, you help strengthen SuperWAL’s decentralized validator network while earning SPL Tokens in a fair, sustainable, and eco-friendly way.
+
+1. How SPL Mining Works
+
+SPL Mining operates through distinct phases, rewarding users for specific contributions to the Walchain network.
+
+1.1. SPL Earning Mechanism (Proof of Participation)
+
+Proof of Participation (PoP): Rewards are based on user contributions to ecosystem growth, including:
+
+Completing in-app tasks (e.g., daily logins, surveys).
+
+Inviting new users to join SuperWAL.
+
+Engaging with the community (e.g., participating in DAO or supporting Light Nodes).
+
+Delegation to Validators: Users can stake SPL Tokens to delegate to Validator Full Nodes, earning a share of transaction fee rewards.
+
+SPL Mining Formula:
+
+Mine rate (SPL/hour) = Min (x, √x)
+
+x = Base × Participation × Community Bonus
+
+Base: Minimum system-provided reward.
+
+Participation: Multiplier based on in-app activity level (e.g., task completion frequency).
+
+Community Bonus: Extra reward for referring new users.
+
+2. SPL Mining Phases
+
+2.1. Phase 1 – Earning SPL Through Platform Activities
+
+New Users: Sign up for a SuperWAL account and receive an initial SPL airdrop.
+
+Task Completion: Earn daily SPL Tokens by completing simple missions in the app.
+
+Ecosystem Growth: Support Walchain’s expansion by engaging with the community.
+
+2.2. Phase 2 – Upgrading to Light Node
+
+Light Node Activation: Active users meeting criteria (e.g., sufficient activity or staked SPL) can enable Light Node mode on their mobile device.
+
+Role: Light Nodes assist with lightweight validation and delegate transaction processing to Validator Full Nodes, leveraging Walchain’s integrated ZK-Rollup at Layer 1.
+
+Rewards: Light Nodes earn a small portion of transaction fees through delegation.
+
+2.3. Phase 3 – Long-Term Earnings from the SuperWAL Network
+
+Mainnet Rewards: Once SuperWAL’s mainnet is fully live, Light Nodes receive ongoing rewards for supporting validators.
+
+Sustainability: Long-term incentive programs ensure continuous SPL earnings for active participants.
+
+3. Benefits of Participating in SPL Mining
+
+3.1. For Users
+
+Free SPL Earnings: Gain tokens through platform activities without any cost.
+
+No Specialized Hardware: Requires only a mobile or web app—no expensive mining equipment needed.
+
+Validator Support: Stake SPL for delegation and earn additional income from transaction fees.
+
+Growth Potential: SPL value increases as the SuperWAL ecosystem expands.
+
+3.2. For the Walchain Network
+
+More Light Nodes: Enhances decentralization through widespread mobile participation.
+
+Improved Security: A larger Light Node network supports validators in preventing fraud.
+
+Ecosystem Development: Drives adoption of DeFi, GameFi, and NFT applications on SuperWAL.
+
+4. How to Join SPL Mining
+
+Participation Requirements:
+
+A mobile device or computer with internet access.
+
+A free SuperWAL account.
+
+Basic verification for token withdrawals (no advanced KYC required).
+
+Steps to Get Started:
+
+Download and Register:
+
+Install the SuperWAL app from Google Play or the App Store.
+
+Create an account and complete basic verification.
+
+Start Earning SPL Tokens:
+
+Participate in daily tasks to earn SPL rewards.
+
+Invite friends for bonus tokens.
+
+Stake SPL to delegate to a Validator Full Node for higher rewards.
+
+Upgrade to Light Node:
+
+Stake a minimum amount (e.g., 500 SPL) to activate Light Node mode.
+
+Support the Walchain network and earn transaction fee rewards via delegation.
+
+5. SPL Token Reward & Distribution Mechanism
+
+Reward Distribution Model:
+
+Light Node Users: Earn tokens through platform activities and delegation rewards.
+
+Validator Full Nodes: Receive transaction fees and rewards for SCP/ZK-Rollup validation.
+
+DAO Community: Earn SPL for participating in governance and network upgrades.
+
+Inflation Control Policy:
+
+Gradual Reward Reduction: Earning difficulty increases over time (e.g., rewards halved after every 1 million SPL distributed).
+
+Token Burn Mechanism: A portion of transaction fees is burned to maintain SPL’s long-term value stability.
+
+6. Summary
+
+SPL Mining offers more than token earnings—it’s your chance to engage in SuperWAL’s decentralized ecosystem.
+
+Users can earn free SPL, upgrade to Light Nodes, and secure long-term income from network transaction fees.
+
+This is an early opportunity to join SPL Mining and contribute to an advanced Layer 1 blockchain network!
