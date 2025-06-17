@@ -1,3 +1,4 @@
+
 from fastapi import FastAPI, Form, Request
 from fastapi.responses import StreamingResponse, JSONResponse
 from fastapi.concurrency import run_in_threadpool
@@ -9,12 +10,14 @@ from langchain_ollama import OllamaLLM, OllamaEmbeddings
 from langchain.prompts import PromptTemplate
 from bs4 import BeautifulSoup
 import os
+from pymongo import MongoClient
+from datetime import datetime
 import asyncio
 import time
 import hashlib
+from langchain.schema import Document
 
-
-#Tạo prompt
+# Tạo prompt
 prompt_template = PromptTemplate(
     input_variables=["context", "question"],
     template="""
@@ -28,61 +31,79 @@ Câu hỏi:
 """
 )
 
-#
+
+
+
 class RAGEngine:
-    #Hàm quét file txt xuất ra prompt và gửi cho mistral
     def __init__(self, data_folder="./data", urls=None):
         self.data_folder = data_folder
-        self.llm = OllamaLLM(model="mistral", temperature=0.2, streaming=True) 
-        self.embeddings = OllamaEmbeddings(model="mistral")
         self.urls = urls or []
+        self.llm = OllamaLLM(model="mistral", temperature=0.2, streaming=True)
+        self.embeddings = OllamaEmbeddings(model="mistral")
+
+        # MongoDB
+        self.mongo_uri = "mongodb://localhost:27017"
+        self.db_name = "chatbot_db"
+        self.collection_name = "chunks"
+        self.mongo_client = MongoClient(self.mongo_uri)
+        self.chunk_collection = self.mongo_client[self.db_name][self.collection_name]
+
+        # Load FAISS
         self.retriever = self._load_data()
+
+        # Kiểm tra retriever có null không
+        if self.retriever is None:
+            raise ValueError("❌ Retriever not loaded properly from FAISS.")
+
         self.qa_chain = RetrievalQA.from_chain_type(
             llm=self.llm,
             retriever=self.retriever,
             chain_type_kwargs={"prompt": prompt_template},
-            return_source_documents=False
+            return_source_documents=True
         )
 
-    #Hàm băm urls
-    def _hash_urls(self):
-        hash_object = hashlib.md5("".join(self.urls).encode())
-        return hash_object.hexdigest()
 
-    #Hàm load file và lưu vào faiss để mỗi lần gọi lệnh không phải load lại file txt 
     def _load_data(self):
-        index_path = os.path.join(self.data_folder, "faiss_index")
-        index_file = os.path.join(index_path, "faiss_index")
-        pkl_file = os.path.join(index_path, "faiss_index.pkl")
+        # Load FAISS index
+        vectorstore = FAISS.load_local(
+            folder_path=self.data_folder,
+            embeddings=self.embeddings,
+            index_name="faiss_index/faiss_index",  # hoặc tên bạn đã lưu
+            allow_dangerous_deserialization=True
+        )
 
-        if os.path.exists(index_file) and os.path.exists(pkl_file):
-            return FAISS.load_local(index_path, self.embeddings, allow_dangerous_deserialization=True).as_retriever(search_kwargs={"k": 3})
+        retriever = vectorstore.as_retriever()
+        return retriever
+    
 
-        docs = []
-
-        # Load local .txt files
-        for filename in os.listdir(self.data_folder):
-            if filename.endswith(".txt"):
-                loader = TextLoader(os.path.join(self.data_folder, filename))
-                docs.extend(loader.load())
-
-        # Load from web if URLs provided
-        if self.urls:
-            web_loader = WebBaseLoader(self.urls)
-            docs.extend(web_loader.load())
-
-        # Chunking
-        text_splitter = CharacterTextSplitter(chunk_size=800, chunk_overlap=100)
-        texts = text_splitter.split_documents(docs)
-
-        # FAISS vector store
-        db = FAISS.from_documents(texts, self.embeddings)
-        db.save_local(index_path)
-        return db.as_retriever(search_kwargs={"k": 3})
+    def _get_metadata_from_mongo(self, source, chunk_index):
+        doc = self.chunk_collection.find_one({
+            "source": source,
+            "chunk_index": chunk_index
+        })
+        return doc
 
     def run_sync(self, question: str) -> str:
-        return self.qa_chain.run(question)
+        result = self.qa_chain({"query": question})
+        answer = result["result"]
+        sources = result.get("source_documents", [])
 
+        # Map metadata lại từ MongoDB
+        enriched_sources = []
+        for doc in sources:
+            original_meta = doc.metadata
+            source = original_meta.get("source")
+            chunk_index = original_meta.get("chunk_id") or original_meta.get("chunk_index") or 0
+
+            mongo_meta = self._get_metadata_from_mongo(source, chunk_index)
+            if mongo_meta:
+                enriched_sources.append(f"- 📄 `{mongo_meta.get('title', '')}` (chunk #{mongo_meta.get('chunk_index')})")
+            else:
+                enriched_sources.append(f"- 📄 `{source}` (chunk #{chunk_index})")
+
+        metadata_display = "\n".join(enriched_sources)
+        return f"{answer}\n\n📚 Nguồn tham khảo:\n{metadata_display}"
+    
     async def ask(self, question: str) -> str:
         try:
             result = await asyncio.wait_for(

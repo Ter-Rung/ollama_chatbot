@@ -3,19 +3,12 @@ from fastapi import FastAPI, Form, Request
 import os
 from fastapi.responses import StreamingResponse, JSONResponse
 import asyncio
+from connect_db import CheckDB
 
 
 app = FastAPI()  
-
-
-# URLs bạn muốn load từ web (có thể thêm nhiều)
-web_urls = [
-    "https://superwal.io/",
-    "https://superwal.io/about",
-]
-
-# Khởi tạo engine
-rag = RAGEngine(urls=web_urls)
+check = CheckDB()
+rag = RAGEngine()
 
 @app.get("/")
 def root():
