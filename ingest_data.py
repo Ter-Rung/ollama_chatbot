@@ -1,16 +1,13 @@
 from langchain_community.document_loaders import TextLoader, WebBaseLoader
-from langchain.text_splitter import CharacterTextSplitter
 from config import MONGO_URI, DB_NAME, COLLECTION_NAME, DATA_FOLDER, URLS
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from bs4 import BeautifulSoup
-from pymongo import MongoClient
 from bson.objectid import ObjectId
 from datetime import datetime
 from dotenv import load_dotenv
 from connect_db import CheckDB
 import datetime
 import os
-import hashlib
+
 
 load_dotenv()
 

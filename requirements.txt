@@ -13,3 +13,5 @@ langchain-ollama
 bs4
 requests
 pymongo
+#langchain-huggingface
+#sentence-transformers
