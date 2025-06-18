@@ -24,12 +24,12 @@ from langchain.schema import Document
 prompt_template = PromptTemplate(
     input_variables=["context", "question"],
     template="""
-Bạn là một trợ lý AI thông minh. Dựa trên nội dung sau, hãy trả lời câu hỏi một cách ngắn gọn, chính xác và đầy đủ.
+You are a knowledgeable AI assistant. Using the information provided below, respond to the question with a concise, accurate, and well-informed answer.
 
-Nội dung:
+Context:
 {context}
 
-Câu hỏi:
+Question:
 {question}
 """
 )
